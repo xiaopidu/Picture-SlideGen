@@ -1,0 +1,5 @@
+{
+  "name": "Picture-SlideGen",
+  "description": "Upload images to automatically generate a PowerPoint presentation. Uses Gemini Vision to analyze images and generate context-aware titles and bullet points for each slide.",
+  "requestFramePermissions": []
+}
